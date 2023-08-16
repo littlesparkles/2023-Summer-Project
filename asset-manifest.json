@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/2023-Summer-Project/static/css/main.f2ce8c55.css",
+    "main.js": "/2023-Summer-Project/static/js/main.a6d7d556.js",
+    "static/js/787.b701888c.chunk.js": "/2023-Summer-Project/static/js/787.b701888c.chunk.js",
+    "static/media/home-background.png": "/2023-Summer-Project/static/media/home-background.bc385167640dec1c4c73.png",
+    "static/media/home-main.png": "/2023-Summer-Project/static/media/home-main.359bcbb234245144d320.png",
+    "static/media/project-1.png": "/2023-Summer-Project/static/media/project-1.4f0d1f1773873cabbfcc.png",
+    "static/media/about-me.jpg": "/2023-Summer-Project/static/media/about-me.d06e43107680404a2d67.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/2023-Summer-Project/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/2023-Summer-Project/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/2023-Summer-Project/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/gradient.png": "/2023-Summer-Project/static/media/gradient.9f76e6be32b7979954c5.png",
+    "static/media/contact.png": "/2023-Summer-Project/static/media/contact.c26e29b331fc4815d118.png",
+    "static/media/checkmark.png": "/2023-Summer-Project/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/nav-logo.svg": "/2023-Summer-Project/static/media/nav-logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/home-instagram.svg": "/2023-Summer-Project/static/media/home-instagram.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/home-github.svg": "/2023-Summer-Project/static/media/home-github.39e547580f4926192b709df97850dd39.svg",
+    "static/media/home-blog.svg": "/2023-Summer-Project/static/media/home-blog.e9be27e919788aecd375066163cc5776.svg",
+    "index.html": "/2023-Summer-Project/index.html",
+    "main.f2ce8c55.css.map": "/2023-Summer-Project/static/css/main.f2ce8c55.css.map",
+    "main.a6d7d556.js.map": "/2023-Summer-Project/static/js/main.a6d7d556.js.map",
+    "787.b701888c.chunk.js.map": "/2023-Summer-Project/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ce8c55.css",
+    "static/js/main.a6d7d556.js"
+  ]
+}
